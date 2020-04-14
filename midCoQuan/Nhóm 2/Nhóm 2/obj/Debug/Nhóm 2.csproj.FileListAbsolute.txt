@@ -1,0 +1,38 @@
+E:\Visual studio\Nhóm 2\Nhóm 2\bin\Debug\Nhóm 2.exe.config
+E:\Visual studio\Nhóm 2\Nhóm 2\bin\Debug\Nhóm 2.exe
+E:\Visual studio\Nhóm 2\Nhóm 2\bin\Debug\Nhóm 2.pdb
+E:\Visual studio\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.csprojAssemblyReference.cache
+E:\Visual studio\Nhóm 2\Nhóm 2\obj\Debug\Nhóm_2.frmDonVi.resources
+E:\Visual studio\Nhóm 2\Nhóm 2\obj\Debug\Nhóm_2.Properties.Resources.resources
+E:\Visual studio\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.csproj.GenerateResource.cache
+E:\Visual studio\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.exe
+E:\Visual studio\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.pdb
+C:\Users\Tùng\Desktop\Nhóm 2\Nhóm 2\Nhóm 2\bin\Debug\Nhóm 2.exe.config
+C:\Users\Tùng\Desktop\Nhóm 2\Nhóm 2\Nhóm 2\bin\Debug\Nhóm 2.exe
+C:\Users\Tùng\Desktop\Nhóm 2\Nhóm 2\Nhóm 2\bin\Debug\Nhóm 2.pdb
+C:\Users\Tùng\Desktop\Nhóm 2\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.csprojAssemblyReference.cache
+C:\Users\Tùng\Desktop\Nhóm 2\Nhóm 2\Nhóm 2\obj\Debug\Nhóm_2.frmDonVi.resources
+C:\Users\Tùng\Desktop\Nhóm 2\Nhóm 2\Nhóm 2\obj\Debug\Nhóm_2.Properties.Resources.resources
+C:\Users\Tùng\Desktop\Nhóm 2\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.csproj.GenerateResource.cache
+C:\Users\Tùng\Desktop\Nhóm 2\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.exe
+C:\Users\Tùng\Desktop\Nhóm 2\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.pdb
+C:\Users\TY-PC\Documents\midCoQuan\Nhóm 2\Nhóm 2\bin\Debug\Nhóm 2.exe.config
+C:\Users\TY-PC\Documents\midCoQuan\Nhóm 2\Nhóm 2\bin\Debug\Nhóm 2.exe
+C:\Users\TY-PC\Documents\midCoQuan\Nhóm 2\Nhóm 2\bin\Debug\Nhóm 2.pdb
+C:\Users\TY-PC\Documents\midCoQuan\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.csprojAssemblyReference.cache
+C:\Users\TY-PC\Documents\midCoQuan\Nhóm 2\Nhóm 2\obj\Debug\Nhóm_2.frmDonVi.resources
+C:\Users\TY-PC\Documents\midCoQuan\Nhóm 2\Nhóm 2\obj\Debug\Nhóm_2.Properties.Resources.resources
+C:\Users\TY-PC\Documents\midCoQuan\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.csproj.GenerateResource.cache
+C:\Users\TY-PC\Documents\midCoQuan\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.csproj.CoreCompileInputs.cache
+C:\Users\TY-PC\Documents\midCoQuan\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.exe
+C:\Users\TY-PC\Documents\midCoQuan\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.pdb
+C:\Users\ADMIN\Desktop\midCoQuan\Nhóm 2\Nhóm 2\bin\Debug\Nhóm 2.exe.config
+C:\Users\ADMIN\Desktop\midCoQuan\Nhóm 2\Nhóm 2\bin\Debug\Nhóm 2.exe
+C:\Users\ADMIN\Desktop\midCoQuan\Nhóm 2\Nhóm 2\bin\Debug\Nhóm 2.pdb
+C:\Users\ADMIN\Desktop\midCoQuan\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\midCoQuan\Nhóm 2\Nhóm 2\obj\Debug\Nhóm_2.frmDonVi.resources
+C:\Users\ADMIN\Desktop\midCoQuan\Nhóm 2\Nhóm 2\obj\Debug\Nhóm_2.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\midCoQuan\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\midCoQuan\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\midCoQuan\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.exe
+C:\Users\ADMIN\Desktop\midCoQuan\Nhóm 2\Nhóm 2\obj\Debug\Nhóm 2.pdb
